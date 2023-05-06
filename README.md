@@ -1,5 +1,4 @@
-# Pricing Cards Project
+# Product Modal Card
 
-Pricing Cards mini-project from my Tailwind course.
 
-![Alt text](images/pricing-cards.png)
+![Alt text](images/product-modal.png)
